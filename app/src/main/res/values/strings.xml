@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AllTheThings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_core">Core</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- Job Scheduler -->
+    <string name="job_service">This is a Notification title</string>
+    <string name="job_running">This is a Notification content</string>
+    <string name="job_service_notification">Job Service notification</string>
+    <string name="notification_channel_description">Notifications from Job Service</string>
+    <string name="job_scheduled">Job Scheduled, will run when the constraints are met</string>
+    <string name="no_constraint_toast">Please set at least one constraint</string>
+    <string name="jobs_canceled">Jobs Canceled</string>
+</resources>
